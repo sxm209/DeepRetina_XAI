@@ -1,0 +1,12 @@
+# Ignore the dataset folder
+aptos2019-blindness-detection/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Mac system files (since your README mentions Apple Silicon/MPS)
+.DS_Store
+
+# Ignore Python cache
+__pycache__/
+*.pyc
